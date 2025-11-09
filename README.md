@@ -1,7 +1,7 @@
-# Serbian Transliteration — Biblioteka za transkripciju srpskog pisma
+# Serbian Transliteration - Biblioteka za transkripciju srpskog pisma
 
-[![npm version](https://img.shields.io/npm/v/@pr00x/serbian-transliteration.svg)](https://www.npmjs.com/package/@pr00x/serbian-transliteration)
-[![GitHub](https://img.shields.io/badge/github-pr00x/serbian--transliteration-blue?logo=github)](https://github.com/pr00x/serbian-transliteration)
+[![npm version](https://img.shields.io/npm/v/@exvorn/serbian-transliteration.svg)](https://www.npmjs.com/package/@exvorn/serbian-transliteration)
+[![GitHub](https://img.shields.io/badge/github-exvorn/serbian--transliteration-blue?logo=github)](https://github.com/exvorn/serbian-transliteration)
 
 `serbian-transliteration` je lagana i brza JavaScript/TypeScript biblioteka za transkripciju srpskog teksta između ćirilice i latinice. Omogućava jednostavno konvertovanje rečenica ili reči, pogodna je za Node.js i browser okruženja, i ne zahteva dodatne biblioteke.
 
@@ -22,7 +22,7 @@
 
 - 🔄 Brzo i precizno konvertovanje između ćirilice i latinice
 - 📝 Podržava kompletnu srpsku abecedu i azbuku, uključujući digrafe (lj, nj, dž, đ, č, ć, š, ž)
-- 📦 Laka za korišćenje — bez spoljnjih biblioteka
+- 📦 Laka za korišćenje - bez spoljnjih biblioteka
 - 🌐 Radi u Node.js i browseru
 - 🛠️ Jednostavan API za integraciju u druge projekte
 
@@ -32,7 +32,7 @@
 
 Instalirajte paket putem npm-a:
 ```bash
-npm install @pr00x/serbian-transliteration
+npm install @exvorn/serbian-transliteration
 ```
 
 ---
@@ -40,8 +40,8 @@ npm install @pr00x/serbian-transliteration
 ## Primer korišćenja
 
 ```js
-import SerbianTransliteration from '@pr00x/serbian-transliteration'; // ESM syntax
-// const SerbianTransliteration = require('@pr00x/serbian-transliteration'); // CommonJS syntax
+import SerbianTransliteration from '@exvorn/serbian-transliteration'; // ESM syntax
+// const SerbianTransliteration = require('@exvorn/serbian-transliteration'); // CommonJS syntax
 
 let result;
 
@@ -179,7 +179,7 @@ SerbianTransliteration.toCyrillic(
 
 ## Autor
 
-[@pr00x (Jovan Bogovac)](https://github.com/pr00x)
+[@exvorn (Jovan Bogovac)](https://github.com/exvorn)
 
 ---
 
