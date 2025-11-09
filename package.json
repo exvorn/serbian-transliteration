@@ -1,20 +1,20 @@
 {
-  "name": "@pr00x/serbian-transliteration",
-  "version": "1.1.1",
+  "name": "@exvorn/serbian-transliteration",
+  "version": "1.0.0",
   "description": "A lightweight Serbian transliteration library for converting between Cyrillic and Latin scripts.",
   "license": "MIT",
   "author": {
-    "name": "pr00x (Jovan Bogovac)",
-    "url": "https://github.com/pr00x"
+    "name": "exvorn (Jovan Bogovac)",
+    "url": "https://github.com/exvorn"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pr00x/serbian-transliteration.git"
+    "url": "git+https://github.com/exvorn/serbian-transliteration.git"
   },
   "bugs": {
-    "url": "https://github.com/pr00x/serbian-transliteration/issues"
+    "url": "https://github.com/exvorn/serbian-transliteration/issues"
   },
-  "homepage": "https://github.com/pr00x/serbian-transliteration#readme",
+  "homepage": "https://github.com/exvorn/serbian-transliteration#readme",
   "keywords": [
     "serbian",
     "transliteration",
